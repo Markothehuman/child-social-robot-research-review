@@ -1,0 +1,85 @@
+Preliminary CRI literature corpus
+
+These classifications are preliminary automated/metadata-derived tags and should not be interpreted as final findings of the narrative review.
+
+Source: 05_CRI_Preliminary_Corpus_Inventory.xlsx; sheet: Inventory
+Detected columns: citekey, title, year, authors, venue, doi, bibtex_type, evidence_type, setting_tags, methodology_tags, topic_tags, population_tags, screening_status, priority, manual_notes, dedupe_key
+
+Total number of Zotero records: 116
+Journal articles: 76
+Conference papers: 19
+Bibliographic counts use the existing record type, not venue-based inference.
+Potential duplicates: 1 flagged group(s), 2 records involved, 1 extra record(s) if confirmed (from the inventory's existing dedupe_key).
+All inventory records are retained; no potential duplicates were removed.
+
+Provisional evidence types:
+- Primary / empirical or applied: 78
+- Review / synthesis: 20
+- Conceptual / guidance: 6
+- Methodological / framework: 5
+- Conceptual / chapter: 4
+- Review / meta-analysis: 3
+- Untagged evidence type: 0
+
+Provisional settings (multi-label):
+Records with at least one tag: 63/116; untagged: 53.
+- School/classroom/preschool: 32
+- Hospital/clinical/therapy: 22
+- Field/in-the-wild/community: 18
+- Home/domestic: 5
+- Lab/controlled: 4
+
+Provisional methodologies (multi-label):
+Records with at least one tag: 67/116; untagged: 49.
+- Experimental/comparative: 30
+- Longitudinal/repeated: 29
+- Qualitative/interview/ethnographic: 20
+- Questionnaire/self-report: 14
+- Observational/behavioural coding: 11
+- Physiological/sensor-based: 5
+- Wizard-of-Oz/teleoperation: 4
+- Mixed methods: 2
+
+Provisional topics (multi-label):
+Records with at least one tag: 98/116; untagged: 18.
+- Education/learning/language: 60
+- Emotion/social-emotional: 38
+- Engagement/acceptance: 36
+- Healthcare/anxiety/pain: 26
+- Trust/relationship/rapport: 22
+- Autism/neurodevelopment: 16
+- Theory of mind/social cognition: 13
+
+Each tag is counted once per record. A record may contribute to multiple
+setting, methodology or topic categories, so category totals can exceed the corpus size.
+Missing tags mean the metadata was untagged; they do not establish absence of a feature.
+
+Publication years: 101/116 valid; 15 missing or invalid.
+- 2010: 1
+- 2011: 1
+- 2012: 1
+- 2013: 2
+- 2014: 1
+- 2015: 5
+- 2016: 3
+- 2017: 2
+- 2018: 5
+- 2019: 9
+- 2020: 11
+- 2021: 5
+- 2022: 9
+- 2023: 9
+- 2024: 8
+- 2025: 12
+- 2026: 15
+- 2027: 2
+Years are shown as recorded, including any future-dated records; no dates were corrected.
+This collected corpus does not establish publication trends across the field.
+
+Count-based overview:
+The preliminary corpus contains 116 Zotero records.
+The largest existing evidence categories are: Primary / empirical or applied (78); Review / synthesis (20); Conceptual / guidance (6).
+Among 63 records with settings tags, the largest provisional clusters are: School/classroom/preschool (32); Hospital/clinical/therapy (22); Field/in-the-wild/community (18).
+Among 67 records with methodologies tags, the largest provisional clusters are: Experimental/comparative (30); Longitudinal/repeated (29); Qualitative/interview/ethnographic (20).
+Among 98 records with topics tags, the largest provisional clusters are: Education/learning/language (60); Emotion/social-emotional (38); Engagement/acceptance (36).
+These counts describe existing metadata tags and require manual full-text verification.
